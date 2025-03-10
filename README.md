@@ -67,6 +67,6 @@ Tengo experiencia trabajando con bases de datos, procesamiento de datos y optimi
 
 ## 📫 ¡Conectemos!  
 📧 **Correo:** [Nlortiz2002@gmail.com](mailto:Nlortiz2002@gmail.com)  
-💼 **LinkedIn:** [https://www.linkedin.com/in/nelson-leonardo-ortiz-vanegas]([https://www.linkedin.com/](https://www.linkedin.com/in/nelson-leonardo-ortiz-vanegas-5ab618205?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app))  
+💼 **LinkedIn:** [LinkedIn - Nelson Leonardo Ortiz Vanegas](https://www.linkedin.com/in/nelson-leonardo-ortiz-vanegas-5ab618205)
 
 ⚡ ¡Gracias por visitar mi perfil y espero que trabajemos juntos en algo increíble! 🚀  
