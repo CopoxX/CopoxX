@@ -43,9 +43,10 @@ Tengo experiencia trabajando con bases de datos, procesamiento de datos y optimi
 - **Limpieza y visualización de datos**  
 - Automatización de procesos de integración de datos  
 
-✔ **ORMs y Conectividad**  
-- Prisma ORM  
-- SQLAlchemy para Python  
+✔ **Conectividad**   
+- SQLAlchemy para Python
+- SQLite para Python
+- MySQL.connector para Python  
 
 ---
 
