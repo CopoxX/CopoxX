@@ -8,7 +8,7 @@
 
 ## 🧑‍💻 Sobre mí  
 
-Soy un **Desarrollador Fullstack** con un enfoque en **desarrollo web, automatización de procesos y seguridad**. Me especializo en la creación de aplicaciones eficientes y escalables, combinando tecnologías modernas tanto en el **frontend** como en el **backend**.  
+Soy un **Ingeniero de software profesional** con un enfoque en **desarrollo web, automatización de procesos y seguridad**. Me especializo en la creación de aplicaciones eficientes y escalables, combinando tecnologías modernas tanto en el **frontend** como en el **backend**.  
 
 Tengo experiencia trabajando con bases de datos, procesamiento de datos y optimización de consultas. También integro herramientas para la **visualización y carga de datos** con **Pandas**, aplicando técnicas similares a ETL pero utilizando **Python** para una mayor flexibilidad y control.  
 
